@@ -8,3 +8,6 @@
 
 # - Halaman Home
 ![p](gambar/Screenshot%20(63).png)<br>
+
+# - Tabel Pasien
+![p](gambar/Screenshot%20(64).png)<br>
