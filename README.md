@@ -14,3 +14,6 @@
 
 # - Tabel Obat
 ![p](gambar/Screenshot%20(65).png)<br>
+
+# - Tabel Dokter
+![p](gambar/Screenshot%20(66).png)<br>
