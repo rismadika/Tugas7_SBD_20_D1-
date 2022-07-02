@@ -17,3 +17,12 @@
 
 # - Tabel Dokter
 ![p](gambar/Screenshot%20(66).png)<br>
+
+# - Tabel Berobat
+![p](gambar/Screenshot%20(67).png)<br>
+
+# - Tabel Resep
+![p](gambar/Screenshot%20(68).png)<br>
+
+# - Tabel User
+![p](gambar/Screenshot%20(69).png)<br>
