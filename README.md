@@ -11,3 +11,6 @@
 
 # - Tabel Pasien
 ![p](gambar/Screenshot%20(64).png)<br>
+
+# - Tabel Obat
+![p](gambar/Screenshot%20(65).png)<br>
